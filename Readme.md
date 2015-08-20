@@ -5,6 +5,12 @@
 The presentation and related material for the Biodesign 2015 Workshop
 - The [slides](https://rawgit.com/4Quant/Biodesign-Imaging-Workshop-2015/master/slides.html) can be seen here
 
+- The images can be downloaded from [here](https://www.dropbox.com/sh/2sqcxb10cj60rdl/AAAc7ZXb1O0Zci0atBiyb-1Ka?dl=0)
+- The workflow for von Kossa imaging is available [here](VK_Analysis.zip?raw=true) and for H&E imaging [here](H_E_Analysis.zip?raw=true)
+
+
+- A simple example of the report which can be generated from the H&E images [here](Example-Report.pdf?raw=true)
+
 
 ## Relevant Links
 
