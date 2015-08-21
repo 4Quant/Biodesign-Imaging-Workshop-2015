@@ -6,7 +6,9 @@ The presentation and related material for the Biodesign 2015 Workshop
 - The [slides](https://rawgit.com/4Quant/Biodesign-Imaging-Workshop-2015/master/slides.html) can be seen here
 
 - The images can be downloaded from [here](https://www.dropbox.com/sh/2sqcxb10cj60rdl/AAAc7ZXb1O0Zci0atBiyb-1Ka?dl=0)
-- The workflow for von Kossa imaging is available [here](VK_Analysis.zip?raw=true) and for H&E imaging [here](H_E_Analysis.zip?raw=true)
+- The workflow for von Kossa imaging is available [here](https://github.com/4Quant/Biodesign-Imaging-Workshop-2015/blob/master/VK_Analysis.zip?raw=true) and for H&E imaging [here](https://github.com/4Quant/Biodesign-Imaging-Workshop-2015/blob/master/H_E_Analysis.zip?raw=true)
+
+- The workflow we made in class is available [here](https://github.com/4Quant/Biodesign-Imaging-Workshop-2015/blob/master/BD2015.zip?raw=true)
 
 
 - A simple example of the report which can be generated from the H&E images [here](Example-Report.pdf?raw=true)
@@ -15,6 +17,8 @@ The presentation and related material for the Biodesign 2015 Workshop
 ## Relevant Links
 
 - [KNIME Setup](https://github.com/kmader/Quantitative-Big-Imaging-2015/wiki/KNIME-Setup)
+
+- [KNIME Youtube Video](https://www.youtube.com/watch?v=7HwCgleJMk4)
 
 - [Quantitative Big Imaging Course](http://kmader.github.io/Quantitative-Big-Imaging-2015/)
 - [Presentation at Spark Summit 2014](http://4quant.com/spark-summit-2014-presentation)
