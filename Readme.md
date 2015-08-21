@@ -15,7 +15,7 @@ The presentation and related material for the Biodesign 2015 Workshop
 ## Relevant Links
 
 - [KNIME Setup](https://github.com/kmader/Quantitative-Big-Imaging-2015/wiki/KNIME-Setup)
-FIJI
+
 - [Quantitative Big Imaging Course](http://kmader.github.io/Quantitative-Big-Imaging-2015/)
 - [Presentation at Spark Summit 2014](http://4quant.com/spark-summit-2014-presentation)
 - A Demo of our [Quantitative Image Search Engine](https://kmader.shinyapps.io/SearchMachineDemo)
